@@ -1,0 +1,5 @@
+.header_fixed_css {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
